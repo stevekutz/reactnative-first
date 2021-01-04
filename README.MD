@@ -37,7 +37,14 @@
 		- select `Run on iOS simulator` from the `Expo client` browser window on port `http://localhost:19002/`
     	- pressing `i` from the terminal window after starting project
 
-	 
+6)  Launch the project on the Android simulator 
+	- install Android Studio 
+    - under Configure-SDK Manager, select several Androis SDK Platform package
+    - under Configure-AVD Manager, select the `play` button on one of the installed `Virtual Devices`
+
+  	- Launch the iPhone sumulator by either:
+        - select `Run on Android simulator` from the `Expo client` browser window on port `http://localhost:19002/`
+        - pressing `a` from the terminal window after starting project
 
 ### Designing Basic Sample App
 
