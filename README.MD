@@ -33,13 +33,13 @@
 	- install Xcode
 	- make sure `Command Line Tools` is installed under `Preferences/Locations`
 
-	- Launch the iPhone sumulator by either:
+	- Launch the iPhone simulator by either:
 		- select `Run on iOS simulator` from the `Expo client` browser window on port `http://localhost:19002/`
     	- pressing `i` from the terminal window after starting project
 
 6)  Launch the project on the Android simulator 
 	- install Android Studio 
-    - under Configure-SDK Manager, select several Androis SDK Platform package
+    - under Configure-SDK Manager, select several Android SDK Platform packages
     - under Configure-AVD Manager, select the `play` button on one of the installed `Virtual Devices`
 
   	- Launch the iPhone sumulator by either:
